@@ -77,10 +77,3 @@ The Dockerized API was tested with valid and invalid inputs. Valid requests retu
 ## Technologies Used
 Python, FastAPI, Pydantic, Pandas, Scikit-learn, Joblib, Uvicorn and Docker.
 This project demonstrates how a Machine Learning model can be packaged as a FastAPI microservice and deployed in a portable Docker container.
-
-
-
-
-
-
-

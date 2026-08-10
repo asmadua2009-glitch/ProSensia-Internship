@@ -1,0 +1,2 @@
+Input: {'Age': 35, 'Gender': 'Male', 'Product Category': 'Electronics', 'Quantity': 2, 'Price per Unit': 100.0} | Prediction: 0
+Input: {'Age': 35, 'Gender': 'Male', 'Product Category': 'Electronics', 'Quantity': 2, 'Price per Unit': 100.0} | Prediction: 0

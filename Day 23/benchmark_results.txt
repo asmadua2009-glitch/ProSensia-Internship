@@ -1,0 +1,35 @@
+DAY 23 - FASTAPI LATENCY BENCHMARK
+
+Endpoint:
+POST /predict
+
+Test Requests:
+100
+
+Average Latency:
+76.6 ms
+
+P95 Latency:
+129.61 ms
+
+Minimum Latency:
+13.58 ms
+
+Maximum Latency:
+168.5 ms
+
+Required P95 Threshold:
+< 500 ms
+
+Observed P95:
+129.61 ms
+
+Result:
+PASS
+
+Conclusion:
+The FastAPI prediction microservice achieved a P95 latency of
+129.61 ms, which is below the required 500 ms threshold.
+The prediction endpoint uses async def and delegates the
+CPU-bound model inference using asyncio.to_thread() so that
+the FastAPI event loop is not directly blocked by model inference.

@@ -1,7 +1,5 @@
-# Day 27 — Async FastAPI & Pydantic Error Guardrails
-
+# Day 27 Async FastAPI & Pydantic Error Guardrails
 ## Project Overview
-
 This project strengthens the containerized FastAPI machine learning microservice developed during Day 26.
 
 The main focus of Day 27 is to improve API reliability by implementing strict Pydantic validation, graceful error handling, asynchronous request handling, and Docker-based testing.

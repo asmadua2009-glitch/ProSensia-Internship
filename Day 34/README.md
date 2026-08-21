@@ -275,7 +275,7 @@ The existing drift endpoint is:
 
 ```text
 GET /metrics/drift
-```
+```  
 
 ## API Endpoints
 

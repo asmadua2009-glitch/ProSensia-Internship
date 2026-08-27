@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+gunicorn
+scikit-learn
+joblib
+numpy
+pandas
+pydantic
+scipy
+pytest
+httpx
+locust
+slowapi
+pydantic-settings
+python-dotenv

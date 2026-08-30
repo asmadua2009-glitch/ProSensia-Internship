@@ -476,3 +476,5 @@ Prometheus provides continuous collection of operational and model inference met
 By monitoring **P95/P99 latency, RPS, prediction throughput, and HTTP errors**, the system provides better visibility into production behavior and helps detect performance degradation and potential SLA issues early.
 
 This observability layer establishes a stronger foundation for reliable and production-ready ML microservice operations.
+## Author 
+ASMA DUAs
